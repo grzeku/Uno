@@ -1,0 +1,6 @@
+# UNO
+1. Interfejs Shape z metodami abstrakcyjnymi getArea() i getPerimeter()
+2. 3 klasy implementujące interfejs Shape: Rectangle, Circle, Square
+3. Klasy mają mieć odpowiednie pola do swoich właściwości, odpowiednie implementacje metod z interfejsu.
+4. Circle ma mieć stałą PI
+5. Klasa Main, w której stworzycie przykładowe obiekty i wywołacie metody żeby sprawdzić czy działa.
