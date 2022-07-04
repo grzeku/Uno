@@ -10,6 +10,11 @@ public class Main {
         System.out.println("Square perimeter: " + test2.getPerimeter());
         System.out.println("Square area: " + test2.getArea());
 
+        Circle test3 = new Circle(22);
+        System.out.println("Circle perimeter: " + test3.getPerimeter());
+        System.out.println("Circle area: " + test3.getArea());
+
+
 
 
 
