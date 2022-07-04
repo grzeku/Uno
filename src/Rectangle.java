@@ -8,16 +8,14 @@ public class Rectangle implements Shape {
         this.height = height;
     }
 
+
     @Override
     public double getArea() {
-        return width * height;
-
+        return (height * width);
     }
 
     @Override
     public double getPerimeter() {
-        return (width + height) * 2;
-
-
+        return (height * width) * 2;
     }
 }

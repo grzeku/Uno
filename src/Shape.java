@@ -1,5 +1,5 @@
 public interface Shape {
 
-    public double getArea();
-    public double getPerimeter();
+    abstract double getArea();
+    abstract double getPerimeter();
 }
